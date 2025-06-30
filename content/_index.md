@@ -56,7 +56,7 @@ sections:
     design:
       view: article-grid
       fill_image: false
-      columns: 3
+      columns: 2
   # - block: collection  # Mismo bloque pero sin imagenes
   #   content:
   #     title: Recent Publications 
