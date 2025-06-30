@@ -161,5 +161,5 @@ languages:
 
 ---
 
-## Hi, I’m Ana — a biologist diving into the fascinating world of bioinformatics. As you explore this space, you’ll get to know me a bit better and hopefully discover something new or spark a bit of curiosity along the way!
+## As you explore this space, you’ll get to know me a bit better and hopefully learn something new or spark a bit of curiosity along the way!
  
