@@ -51,13 +51,14 @@ sections:
     id: papers
     content:
       title: Projects
+      text: whatever
       filters:
         folders:
           - project
-        featured_only: true
     design:
       view: article-grid
-      columns: 2
+      fill_image: false
+      columns: 3
   # - block: collection  # Mismo bloque pero sin imagenes
   #   content:
   #     title: Recent Publications 
