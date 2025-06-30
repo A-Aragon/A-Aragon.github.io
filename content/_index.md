@@ -42,11 +42,9 @@ sections:
       title: '📚 My Interests'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        I’m a bioinformatician with a strong interest in using AI to tackle complex biological challenges, particularly in the field of genetics. With a background in both computational methods and life sciences, I’m passionate about advancing the healthcare industry through innovative, data-driven approaches. 
         
-        Please reach out to collaborate 😃
+        My interests lie in applying a broad range of AI tools to extract meaningful insights from diverse biological data types — such as omics, imaging, and biosignals. This integrative approach enables the development of holistic solutions that capture the complexity of living systems.
     design:
       columns: '1'
   - block: collection
