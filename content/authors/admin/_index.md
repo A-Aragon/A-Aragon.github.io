@@ -10,8 +10,8 @@ first_name: Ana
 last_name: Aragón
 
 # Status emoji
-status:
-  icon: 
+#status:
+#  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Bioinformatician
+role: BIOINFORMATICIAN
 
 # Organizations/Affiliations to display in Biography blox
 #organizations:
@@ -46,13 +46,13 @@ profiles:
   #- icon: academicons/orcid
   #  url: https://orcid.org/
 
-#interests:
-#  - Artificial Intelligence
-#  - Health
+interests:
+  - Artificial Intelligence
+  - Health
 
-# education:
-#   - area: PhD Artificial Intelligence
-#     institution: Stanford University
+education:
+  - area: Master in Bioinformatics and Biostatistics
+    institution: Universitat de Catalunya
 #     date_start: 2016-01-01
 #     date_end: 2020-12-31
 #     summary: |
@@ -71,8 +71,8 @@ profiles:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - area: BSc Artificial Intelligence
-#     institution: Massachusetts Institute of Technology
+  - area: Degree in Biology
+    institution: Universidad de Alicante
 #     date_start: 2016-01-01
 #     date_end: 2020-12-31
 #     summary: |
@@ -162,6 +162,5 @@ languages:
 
 ## About Me
 
-With a biology background, I have recently begun exploring the exciting field of bioinformatics. My principal research interest focuses on the integration of artificial intelligence tools to advance the healthcare sector, with a particular emphasis on the development of advanced therapies.
-
+Hi, I’m Ana — a biologist diving into the fascinating world of bioinformatics. As you explore this space, you’ll get to know me a bit better and hopefully discover something new or spark a bit of curiosity along the way!
  
