@@ -49,8 +49,7 @@ sections:
       columns: '1'
   - block: collection
     content:
-      title: Selected Publications
-      text: I enjoy making things. Here are a selection of publications that I have worked on over the years.
+      title: Selected projects
       filters:
         folders:
           - project
