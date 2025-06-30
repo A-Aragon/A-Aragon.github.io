@@ -3,7 +3,7 @@
 title: Ana Aragón
 
 # Name pronunciation (optional)
-name_pronunciation: Give it your personal touch
+#name_pronunciation: Give it your personal touch
 
 # Full name (for SEO)
 first_name: Ana
