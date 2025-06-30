@@ -14,7 +14,7 @@ sections:
  - block: collection
    id: teaching
    content:
-     title: Teaching
+     title: ""
      filters:
        folders:
          - teaching
