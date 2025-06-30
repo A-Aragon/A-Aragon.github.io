@@ -19,8 +19,8 @@ main:
   - name: About me
     url: aboutme/
     weight: 20
-  - name: Projects
-    url: projects/
+  - name: Publications
+    url: publication/
     weight: 30
   - name: Learning Resources
     url: teaching/
