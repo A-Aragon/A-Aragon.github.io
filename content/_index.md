@@ -13,6 +13,7 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      title: ""
       text: ""
       # Show a call-to-action button under your biography? (optional)
       #button:
@@ -24,7 +25,7 @@ sections:
       css_style: |
         color: white;
         font-weight: bold;
-        font-size: 1.1rem;
+        font-size: 1.2rem;
         text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
       background:
         color: black
@@ -32,7 +33,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: mjh-shikder--bJj_81Zois-unsplash.jpg
           filters:
-            brightness: 0.8
+            brightness: 0.7
           size: cover
           position: center
           parallax: false

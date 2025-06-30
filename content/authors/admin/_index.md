@@ -46,9 +46,9 @@ profiles:
   #- icon: academicons/orcid
   #  url: https://orcid.org/
 
-interests:
-  - Artificial Intelligence
-  - Health
+#interests:
+#  - Artificial Intelligence
+#  - Health
 
 # education:
 #   - area: PhD Artificial Intelligence
