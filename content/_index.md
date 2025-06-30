@@ -48,10 +48,9 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: papers
     content:
-      title: Projects
-      text: whatever
+      title: Selected Publications
+      text: I enjoy making things. Here are a selection of publications that I have worked on over the years.
       filters:
         folders:
           - project
