@@ -14,10 +14,10 @@ main:
   #   url: /#talks
   #   weight: 12
   - name: Publications
-    url: publication/
+    url: /#publication
     weight: 13
   - name: Posts
-    url: /#news
+    url: /#post
     weight: 20
   - name: Learning Resources
     url: teaching/
