@@ -11,11 +11,11 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Publications
-      text: I enjoy making things. Here are a selection of publications that I have worked on over the years.
+      title: Posts
+      text: Some of my latest posts
       filters:
         folders:
-          - publication
+          - posts
     design:
       view: article-grid
       fill_image: false

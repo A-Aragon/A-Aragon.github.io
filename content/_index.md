@@ -57,16 +57,16 @@ sections:
       view: article-grid
       fill_image: false
       columns: 2
-  # - block: collection  # Mismo bloque pero sin imagenes
-  #   content:
-  #     title: Recent Publications 
-  #     text: ""
-  #     filters:
-  #       folders:
-  #         - publication
-  #       exclude_featured: false
-  #   design:
-  #     view: citation
+  - block: collection  
+    content:
+      title: Recent Publications 
+      text: ""
+      filters:
+        folders:
+          - publication
+            exclude_featured: false
+      design:
+      view: citation
   # - block: collection
   #   id: talks
   #   content:
