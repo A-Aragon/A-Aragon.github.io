@@ -15,7 +15,7 @@ sections:
       text: Some of my latest posts
       filters:
         folders:
-          - posts
+          - post
     design:
       view: article-grid
       fill_image: false
