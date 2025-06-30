@@ -21,14 +21,18 @@ sections:
     design:
       columns: '1'
       css_class: dark
-      css_style: 'color: #36454F'
+      css_style: |
+        color: white;
+        font-weight: bold;
+        font-size: 1.1rem;
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7);
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
           filename: mjh-shikder--bJj_81Zois-unsplash.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.8
           size: cover
           position: center
           parallax: false
