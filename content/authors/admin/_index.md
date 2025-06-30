@@ -48,7 +48,7 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Health
+  - Molecular Biology
 
 education:
   - area: Master in Bioinformatics and Biostatistics
