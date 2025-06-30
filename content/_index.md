@@ -50,10 +50,10 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Publications
+      title: Projects
       filters:
         folders:
-          - publication
+          - projects
         featured_only: true
     design:
       view: article-grid
