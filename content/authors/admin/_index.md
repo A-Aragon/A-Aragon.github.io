@@ -53,7 +53,7 @@ interests:
 
 education:
   - area: Master in Bioinformatics and Biostatistics
-    institution: Universitat de Catalunya
+    institution: Universitat Oberta de Catalunya
 #     date_start: 2016-01-01
 #     date_end: 2020-12-31
 #     summary: |
@@ -132,18 +132,20 @@ skills:
         description: ''
         percent: 100
         icon: person-simple-walk
+        image: avatar.png
       - name: Photography
         description: ''
         percent: 80
         icon: camera
+        image: avatar.png
 
 languages:
-  - name: English
-    percent: 80
-  - name: Spanish
-    percent: 100
   - name: German
     percent: 15
+  - name: Spanish
+    percent: 100
+  - name: English
+    percent: 80
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -161,7 +163,7 @@ languages:
 
 ---
 
-## As you explore this space, you’ll get to know me a bit better and hopefully learn something new or spark a bit of curiosity along the way!
+## Hopefully, this space will spark your curiosity and support your learning journey!
 
 ## 
  
