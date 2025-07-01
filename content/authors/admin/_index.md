@@ -141,7 +141,7 @@ skills:
 
 languages:
   - name: German
-    percent: 15
+    percent: -15
   - name: Spanish
     percent: 100
   - name: English
