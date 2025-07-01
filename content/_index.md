@@ -48,6 +48,7 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: projects
     content:
       title: Selected projects
       filters:
@@ -57,7 +58,8 @@ sections:
       view: article-grid
       fill_image: false
       columns: 2
-  - block: collection  
+  - block: collection 
+    id: publications 
     content:
       title: Recent Publications 
       text: ""
