@@ -1,5 +1,5 @@
 ---
 title: Posts
-summary: Highlights and Discoveries in AI, Bioinformatics, and Health Tech
+summary: Coming soon
 view: article-grid
 ---

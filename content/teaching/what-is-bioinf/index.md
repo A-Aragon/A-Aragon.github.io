@@ -12,9 +12,9 @@ image:
 
 <!-- [Hugo Blox Builder](https://hugoblox.com) -->
 
-This post explores what bioinformatics is, its key subfields, the types of data it handles, and the most in-demand skills for careers in the field.
+This post will explore what bioinformatics is, its key subfields, the types of data it handles, and the most in-demand skills for careers in the field.
 
-## Definition
+<!-- ## Definition
 
 
 
@@ -31,7 +31,7 @@ This post explores what bioinformatics is, its key subfields, the types of data 
 
 
 
-#### Did you find this page helpful? Consider sharing it 🙌
+#### Did you find this page helpful? Consider sharing it 🙌 -->
 
 <!-- HOW TO CITE 
 As Doudna and Charpentier demonstrated in their groundbreaking work on CRISPR¹, gene editing has become faster and more precise. A more recent study by Nature suggests clinical trials could expand rapidly in the coming years².

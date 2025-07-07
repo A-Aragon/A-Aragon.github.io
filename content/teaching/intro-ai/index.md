@@ -10,9 +10,9 @@ image:
   caption: 'Embed rich media such as videos and LaTeX math'
 ---
 
+This post will explore the definition of AI, its various types, introduce its main subfields, and provide resources for a comprehensive understanding of artificial intelligence.
 
-
-## Cite
+<!-- ## Cite
 
 ## Overview AI Subfields
 
@@ -30,4 +30,4 @@ If you enjoy bedtime reading, this course..
 
 -> you might want to check the following repository where i will be updating links of learning resources about bioinfomratics and ai 
 
-#### Did you find this page helpful? Consider sharing it 🙌
+#### Did you find this page helpful? Consider sharing it 🙌 -->
