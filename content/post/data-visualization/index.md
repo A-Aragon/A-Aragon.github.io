@@ -1,7 +1,7 @@
 ---
 title: Cooming soon
 summary: soon
-date: 2025-07-30
+date: 2025-07-3
 authors:
   - admin
 tags:
