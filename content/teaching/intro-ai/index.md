@@ -28,6 +28,8 @@ On this page, you'll find some examples of the types of technical content that c
  
 ## Beginner friendly resuources
 
+If you enjoy bedtime reading, this course..
+
 ## Beyond the Basics 
 
 -> you might want to check the following repository where i will be updating links of learning resources about bioinfomratics and ai 
