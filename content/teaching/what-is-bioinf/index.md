@@ -1,6 +1,6 @@
 ---
 title: What is bioiformatics?
-summary: Bioinformatics Basics in 5 minutes!
+summary: Dive into the basics in 5 minutes!
 date: 2025-07-01
 type: docs
 math: false

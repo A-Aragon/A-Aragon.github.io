@@ -1,6 +1,6 @@
 ---
 title: Introduction to AI 
-summary: Curious about this fascinating field
+summary: Curious about this fascinating field?
 date: 2025-07-05
 type: docs
 math: false
