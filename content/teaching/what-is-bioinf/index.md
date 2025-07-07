@@ -1,22 +1,44 @@
 ---
-title: Learn Python
-summary: Easily learn Python in 10 minutes!
-date: 2023-10-24
+title: What is bioiformatics?
+summary: Bioinformatics Basics in 5 minutes!
+date: 2025-07-01
 type: docs
 math: false
 tags:
-  - Python
+  - Bioinformatics 
 image:
-  caption: 'Embed rich media such as videos and LaTeX math'
+  caption: '¿?¿Embed rich media such as videos and LaTeX math ?¿?'
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+<!-- [Hugo Blox Builder](https://hugoblox.com) -->
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
+This post explores what bioinformatics is, its key subfields, the types of data it handles, and the most in-demand skills for careers in the field.
 
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
+## Definition
 
-## Video
+
+
+
+## Subfields
+
+
+
+## Types 
+
+
+## Main job skills required
+
+
+
+
+#### Did you find this page helpful? Consider sharing it 🙌
+
+<!-- HOW TO CITE 
+As Doudna and Charpentier demonstrated in their groundbreaking work on CRISPR¹, gene editing has become faster and more precise. A more recent study by Nature suggests clinical trials could expand rapidly in the coming years².
+And then in your references:
+¹ Doudna, J. A., & Charpentier, E. (2014). > 
+
+< YOUTUBE VIDEOS
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
@@ -24,19 +46,9 @@ Teach your course by sharing videos with your students. Choose from one of the f
 
 **Youtube**:
 
-    {{</* youtube w7Ft2ymGmfc */>}}
+    {{</* youtube w7Ft2ymGmfc */>}} >
 
-**Bilibili**:
-
-    {{</* bilibili id="BV1WV4y1r7DF" */>}}
-
-**Video file**
-
-Videos may be added to a page by either placing them in your `assets/media/` media library or in your [page's folder](https://gohugo.io/content-management/page-bundles/), and then embedding them with the _video_ shortcode:
-
-    {{</* video src="my_video.mp4" controls="yes" */>}}
-
-## Podcast
+<!-- ADD POSTCASTS
 
 You can add a podcast or music to a page by placing the MP3 file in the page's folder or the media library folder and then embedding the audio on your page with the _audio_ shortcode:
 
@@ -44,9 +56,9 @@ You can add a podcast or music to a page by placing the MP3 file in the page's f
 
 Try it out:
 
-{{< audio src="ambient-piano.mp3" >}}
+{{< audio src="ambient-piano.mp3" >}} >
 
-## Test students
+<!-- ADD EXERCISES WITH SOLUTION
 
 Provide a simple yet fun self-assessment by revealing the solutions to challenges with the `spoiler` shortcode:
 
@@ -58,9 +70,9 @@ You found me!
 
 renders as
 
-{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}
+{{< spoiler text="👉 Click to view the solution" >}} You found me 🎉 {{< /spoiler >}}>
 
-## Math
+<!-- MATH FORMULAS
 
 Hugo Blox Builder supports a Markdown extension for $\LaTeX$ math. You can enable this feature by toggling the `math` option in your `config/_default/params.yaml` file.
 
@@ -108,7 +120,7 @@ $$
 
 {{< /math >}}
 
-## Code
+## CODE WITH COLORS
 
 Hugo Blox Builder utilises Hugo's Markdown extension for highlighting code syntax. The code theme can be selected in the `config/_default/params.yaml` file.
 
@@ -127,7 +139,7 @@ data = pd.read_csv("data.csv")
 data.head()
 ```
 
-## Inline Images
+## INLINE IMAGES
 
 ```go
 {{</* icon name="python" */>}} Python
@@ -135,6 +147,4 @@ data.head()
 
 renders as
 
-{{< icon name="python" >}} Python
-
-## Did you find this page helpful? Consider sharing it 🙌
+{{< icon name="python" >}} Python >
