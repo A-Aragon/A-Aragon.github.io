@@ -65,7 +65,9 @@ If you enjoy bedtime reading, the following free course might become your best f
 
 {{< icon name="star" >}} Once you have been acquinted with the basics of AI, you can continue your learning journey with the amazing book 'Artificial intelligence: A modern approach' <sup>2</sup> to gain a complete overview of this exciting field.
 
-If you prefer a briefer overview, the following course is a very nice resource: https://github.com/microsoft/AI-For-Beginners
+If you prefer a briefer overview, the following course is a very nice resource: 
+
+[![Elements of AI](featured.jpg)](https://github.com/microsoft/AI-For-Beginners){:target="_blank"}
 
 Additionally, you might want to check the repository 'Spice up bioinformatics with AI' where i will be updating links of learning resources about bioinfomratics and AI. 
 
