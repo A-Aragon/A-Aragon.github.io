@@ -58,7 +58,8 @@ For further information, please check:
 
 If you enjoy bedtime reading, the following free course might become your best friend for a few weeks (you can even obtain etcs): 
 
-<iframe src="https://course.elementsofai.com" width="600" height="400"></iframe> 
+[![Elements of AI](featured.jpg)](https://course.elementsofai.com)
+
 
 ## Beyond the Basics 
 
