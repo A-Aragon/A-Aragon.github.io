@@ -1,5 +1,5 @@
 ---
-title: What is bioiformatics?
+title: What is bioinformatics?
 summary: Dive into the basics in 5 minutes!
 date: 2025-07-01
 type: docs

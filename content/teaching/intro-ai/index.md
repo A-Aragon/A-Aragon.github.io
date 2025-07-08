@@ -33,7 +33,7 @@ Check out the following video for a more detailed explanation of this classifica
 
 **The 7 Types of AI - And Why We Talk (Mostly) About 3 of Them**:
 
-    {{</* https://www.youtube.com/watch?v=XFZ-rQ8eeR8 */>}} 
+    {{</* youtube XFZ-rQ8eeR8 */>}} 
 
 ## Overview AI Subfields
 
@@ -43,13 +43,13 @@ If you’re reading this blog, you’ve probably already heard of terms 'machine
 
 These fields relate to AI in a simplified way as follows:
 
-![Alt text](featured.jp)
+![Alt text](featured.jpg)
 
 For further information, please check:
 
 **AI, Machine Learning, Deep Learning and Generative AI Explained**:
 
-    {{</* https://www.youtube.com/watch?v=qYNweeDHiyU */>}} 
+    {{</* youtube qYNweeDHiyU */>}} 
 
 
  AI is much more than ML and DL, it is a broad field that includes many subfields such as robotics, computer vision and overlapps with many fields such as staistics, data science, pattern recognition and it is close but separate to another fields such as contorl theory 
@@ -58,11 +58,13 @@ For further information, please check:
 
 If you enjoy bedtime reading, the following free course might become your best friend for a few weeks (you can even obtain etcs): 
 
-{{</* https://course.elementsofai.com */>}} 
+<iframe src="https://course.elementsofai.com" width="600" height="400"></iframe> 
 
 ## Beyond the Basics 
 
 {{< icon name="star" >}} Once you have been acquinted with the basics of AI, you can continue your learning journey with the amazing book 'Artificial intelligence: A modern approach' <sup>2</sup> to gain a complete overview of this exciting field.
+
+If you prefer a briefer overview, the following course is a very nice resource: https://github.com/microsoft/AI-For-Beginners
 
 Additionally, you might want to check the repository 'Spice up bioinformatics with AI' where i will be updating links of learning resources about bioinfomratics and AI. 
 
