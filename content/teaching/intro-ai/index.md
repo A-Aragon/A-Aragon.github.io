@@ -33,7 +33,7 @@ Check out the following video for a more detailed explanation of this classifica
 
 **The 7 Types of AI - And Why We Talk (Mostly) About 3 of Them**:
 
-    {{</* youtube XFZ-rQ8eeR8 */>}} 
+    {{< youtube XFZ-rQ8eeR8 >}} 
 
 ## Overview AI Subfields
 
