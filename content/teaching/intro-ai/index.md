@@ -43,7 +43,7 @@ If you’re reading this blog, you’ve probably already heard of terms 'machine
 
 These fields relate to AI in a simplified way as follows:
 
-<img src="featured.jpg" alt="Alt text" width="300" />
+<img src="aimldl.jpg" alt="Alt text" width="400" />
 
 For further information, please check:
 
