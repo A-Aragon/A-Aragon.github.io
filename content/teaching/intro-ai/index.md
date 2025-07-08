@@ -43,7 +43,10 @@ If you’re reading this blog, you’ve probably already heard of terms 'machine
 
 These fields relate to AI in a simplified way as follows:
 
-<img src="aimldl.jpg" alt="Alt text" width="400" />
+<img src="aimldl.png" alt="Alt text" width="400" />
+
+{{< figure src="aimldl.png" title="My caption" >}}
+
 
 For further information, please check:
 
@@ -58,7 +61,7 @@ For further information, please check:
 
 If you enjoy bedtime reading, the following free course might become your best friend for a few weeks (you can even obtain etcs): 
 
-[![Elements of AI](aielements.jpg)](https://course.elementsofai.com)
+[![Elements of AI](aielements.png)](https://course.elementsofai.com)
 
 
 ## Beyond the Basics 
@@ -67,7 +70,7 @@ If you enjoy bedtime reading, the following free course might become your best f
 
 If you prefer a briefer overview, the following course is a very nice resource: 
 
-[![Elements of AI](aimicrosoft.jpg)](https://github.com/microsoft/AI-For-Beginners)
+[![Elements of AI](aimicrosoft.png)](https://github.com/microsoft/AI-For-Beginners)
 
 Additionally, you might want to check the repository 'Spice up bioinformatics with AI' where i will be updating links of learning resources about bioinfomratics and AI. 
 
