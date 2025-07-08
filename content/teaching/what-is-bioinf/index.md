@@ -38,7 +38,7 @@ As Doudna and Charpentier demonstrated in their groundbreaking work on CRISPR¹,
 And then in your references:
 ¹ Doudna, J. A., & Charpentier, E. (2014). > 
 
-< YOUTUBE VIDEOS
+<!-- YOUTUBE VIDEOS
 
 Teach your course by sharing videos with your students. Choose from one of the following approaches:
 
