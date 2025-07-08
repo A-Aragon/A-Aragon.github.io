@@ -29,9 +29,7 @@ To gain a clearer understanding of what AI and where we currently stand in its d
 - General AI (Strong AI)
 - Superintelligent AI
 
-Check out the following video for a more detailed explanation of this classification.
-
-**The 7 Types of AI - And Why We Talk (Mostly) About 3 of Them**:
+The following video gives a more detailed explanation of this classification:
 
     {{< youtube XFZ-rQ8eeR8 >}} 
 
@@ -43,19 +41,16 @@ If you’re reading this blog, you’ve probably already heard of terms 'machine
 
 These fields relate to AI in a simplified way as follows:
 
-<img src="aimldl.png" alt="Alt text" width="400" />
-
-{{< figure src="aimldl.png" title="My caption" >}}
+<img src="aimldl.png" alt="Alt text" width="425" title="My caption" />
 
 
-For further information, please check:
+For further information, please check the following video:
 
-**AI, Machine Learning, Deep Learning and Generative AI Explained**:
 
     {{< youtube qYNweeDHiyU >}} 
 
 
- AI is much more than ML and DL, it is a broad field that includes many subfields such as robotics, computer vision and overlapps with many fields such as staistics, data science, pattern recognition and it is close but separate to another fields such as contorl theory 
+ AI is more than just ML and DL, it’s a broad field that includes subfields like robotics and computer vision, overlaps with areas like statistics and data science, and is closely related yet separated from fields such as control theory.
  
 ## Beginner friendly resuources
 
@@ -72,7 +67,7 @@ If you prefer a briefer overview, the following course is a very nice resource:
 
 [![Elements of AI](aimicrosoft.png)](https://github.com/microsoft/AI-For-Beginners)
 
-Additionally, you might want to check the repository 'Spice up bioinformatics with AI' where i will be updating links of learning resources about bioinfomratics and AI. 
+Additionally, you might want to check the repository 'Spice up bioinformatics with AI' where i will be updating links of learning resources about bioinformatics and AI. 
 
 ## Bibliography 
 
