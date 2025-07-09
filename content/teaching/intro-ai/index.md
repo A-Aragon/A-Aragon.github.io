@@ -16,18 +16,27 @@ This post will explore the definition of AI, its various types, introduce its ma
 
 When defining and talking about AI, it's important to be cautious, as many commonly used terms can be misleading. Words like learning, understanding, and intelligence are “suitcase words” — they carry multiple meanings that come along even if we intend only one of them <sup>1</sup>.
 
-The AI definition largely depends on how one interprets the concept of intelligence itself. Some define it as the ability to replicate human performance, while for others it is equivalent to rationality, understood as doing the “right thing”. Additionally, ome view intelligence as rooted in internal thought processes and reasoning, while others emphasize observable intelligent behavior as its defining feature.
+<!-- The AI definition largely depends on how one interprets the concept of intelligence itself. Some define it as the ability to replicate human performance, while for others it is equivalent to rationality, understood as doing the “right thing”. Additionally, ome view intelligence as rooted in internal thought processes and reasoning, while others emphasize observable intelligent behavior as its defining feature.
  <sup>2</sup>.
 
-However, the rational-agent approach to AI offers a major advantage: rationality can be precisely and universally defined in mathematical terms and consequently, it supports scientific progress more effectively. Designing agents to meet rational criteria is easier than trying to mimic human thought or behavior, which is why this approach has become the dominant AI paradigm over time.
+However, the rational-agent approach to AI offers a major advantage: rationality can be precisely and universally defined in mathematical terms and consequently, it supports scientific progress more effectively. Designing agents to meet rational criteria is easier than trying to mimic human thought or behavior, which is why this approach has become the dominant AI paradigm over time. -->
+
+The AI definition largely depends on how one interprets the concept of intelligence itself. Some define it as rationality, understood as doing the “right thing”. This rational approach has become the dominant AI paradigm over time since it is offers a major advantage: rationality can be precisely and universally defined in mathematical terms and consequently, it supports scientific progress more effectively. Designing agents to meet rational criteria is easier than trying to mimic human thought or behavior <sup>2</sup>. 
+
+<!-- ## History of AI 
+
+Capitulo 1 del libro - muy interesante! o meniconar al final de subfields apartado -->
 
 ## Types of AI
 
-To gain a clearer understanding of what AI and where we currently stand in its development, it’s helpful to know that AI is categorized into three main types:
+To gain a clearer understanding of what AI and where we currently stand in its development, it’s helpful to know that AI is categorized into three main types according to its capabilities <sup>3</sup>:
 
-- Narrow AI (Weak AI)
-- General AI (Strong AI)
-- Superintelligent AI
+**- Narrow AI (Weak AI):** 
+    The only form of AI that currently exists, which is limited to specific tasks. Some examples are Siri, Alexa and even ChatGPT.
+**- General AI (Strong AI):** 
+    AGI would apply prior knowledge to new tasks across contexts without needing human intervention.
+**- Superintelligent AI:** 
+    like AGI, is strictly theoretical. If ever realized, Super AI would evolved to possess beliefs and desires of their own.
 
 The following video gives a more detailed explanation of this classification:
 
@@ -41,7 +50,7 @@ If you’re reading this blog, you’ve probably already heard of terms 'machine
 
 These fields relate to AI in a simplified way as follows:
 
-<img src="aimldl.png" alt="Alt text" width="425" title="My caption" />
+<img src="aimldl.png" alt="Alt text" width="425" title="" />
 
 
 For further information, please check the following video:
@@ -74,6 +83,8 @@ Additionally, you might want to check the repository 'Spice up bioinformatics wi
 1. University of Helsinki. (n.d.). Elements of AI. https://course.elementsofai.com
 
 2. Russell, S., & Norvig, P. (2021). Artificial intelligence: A modern approach (4th ed.). Pearson.
+
+3. IBM. (2023). Understanding the different types of artificial intelligence. https://www.ibm.com/think/topics/artificial‑intelligence‑types
 
 
 **Did you find this page helpful? Consider sharing it 🙌**
